@@ -28,7 +28,7 @@ Use SageMaker notebooks to preprocess and retrieve data
 Search for relevant information using Zilliz Vector Database
 🤝 Want to Contribute?
 🔹 Found a bug? Have ideas to improve? Open an issue or submit a pull request!
-📩 Reach Out: [prasuyanamala@gmail.com]
+📩 Reach Out: [prasuyanamala958@gmail.com]
 
 💡 Like this project? Give it a ⭐ and show some love!
 
